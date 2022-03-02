@@ -3,3 +3,7 @@ h1 {
     color: white;
     font-style: oblique;
 }
+
+p {
+    font-size: 25px;
+}
